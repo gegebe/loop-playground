@@ -13,7 +13,7 @@ let mes = 4;
 
 //Escribir tu código a partir de aquí
 
-//let Enero = 1;
+// let Enero = 1;
 
 // let
 // enero = 1,
